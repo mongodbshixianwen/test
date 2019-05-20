@@ -12,5 +12,9 @@ public class Client {
 		}).start();
 		return futrue;//futrueData会被立即
 	}
+	
+	public void test(){
+		
+	}
 
 }
